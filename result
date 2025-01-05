@@ -1,1 +1,6 @@
-
+ec2_ami = "ami-05d34d340fb1d89e5"
+ec2_public_ip = "3.75.189.112"
+ec2_subnet_id = "subnet-0ae8badb682e005b9"
+ec2_type = "t2.micro"
+public_subnet_AZ = "eu-central-1a"
+public_vpc_id = "vpc-01cb516bcbca23760"
